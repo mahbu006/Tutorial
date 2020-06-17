@@ -4,7 +4,7 @@
 
 def testing():
 
-    print('Encephalo')
+    print('Encephalo Investments')
 
 
 testing()
